@@ -7,7 +7,7 @@ Sublime text
 Charles
 Source tree
 p4merge
-snapRuler	
+snapRuler
 
 2 set up ssh key
 
@@ -31,7 +31,13 @@ Cmd
 mkdir -p /usr/local/bin
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
-Plugins
+Plugins:
+DocBlockr
+JsFormat
+Meld
+SublimeLinter
+Terminal
+SFTP
 
 
 
