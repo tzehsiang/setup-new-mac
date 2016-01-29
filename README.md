@@ -12,7 +12,7 @@ setup-new-mac
 2. set up ssh key
 
 3. terminal  
-    * Edit: **.bash_profile**
+    * add .bash_profile
     * add .bashrc
     * add git prompt: https://github.com/magicmonty/bash-git-prompt
     * add .vimrc
