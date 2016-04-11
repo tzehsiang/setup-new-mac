@@ -12,3 +12,4 @@ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/lo
     4. SublimeLinter
     5. Terminal
     6. SFTP
+    7. Sass
