@@ -8,7 +8,8 @@ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/lo
 #####Plugins:
     1. DocBlockr
     2. SublimeLinter
-        * Linters
+        * eslint
+        * scss-lint
     3. Sass
     4. Side Bar Enhancements
     5. Babel
