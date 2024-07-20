@@ -12,10 +12,11 @@ setup-new-mac
 2. set up ssh key
 
 3. terminal  
-    * add .bash_profile
-    * add .bashrc
-    * add git prompt: https://github.com/magicmonty/bash-git-prompt
-    * add .vimrc
+    - add .zhsrc
+    - install [starship](https://starship.rs/)
+        - Resolve [style issue](https://starship.rs/faq/#why-don-t-i-see-a-glyph-symbol-in-my-prompt)
+        - Change terminal font and VS font
+    - add .vimrc
 
 4. Sublime text    
     * config user setting
